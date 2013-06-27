@@ -1,2 +1,2 @@
-ChineseNews
-===========
+VietNews
+========
